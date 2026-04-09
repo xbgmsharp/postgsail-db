@@ -4,6 +4,11 @@ FROM postgres:18-trixie
 LABEL maintainer="PostgSail - https://github.com/xbgmsharp/PostgSail"
 LABEL org.opencontainers.image.description="PostgSail - An open source PostgreSQL-based marine vessel tracking and monitoring platform."
 LABEL org.opencontainers.image.source="https://github.com/xbgmsharp/PostgSail"
+LABEL org.opencontainers.image.licenses="Apache-2.0"
+LABEL org.opencontainers.image.title="PostgSail"
+LABEL org.opencontainers.image.url="https://github.com/xbgmsharp/PostgSail"
+LABEL org.opencontainers.image.vendor="Francois Lacroix",
+LABEL org.opencontainers.image.version="latest"
 
 ENV DEBIAN_FRONTEND=noninteractive
 
