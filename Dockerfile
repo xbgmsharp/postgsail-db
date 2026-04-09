@@ -6,7 +6,7 @@ LABEL org.opencontainers.image.description="PostgSail - An open source PostgreSQ
 LABEL org.opencontainers.image.source="https://github.com/xbgmsharp/PostgSail"
 LABEL org.opencontainers.image.licenses="Apache-2.0"
 LABEL org.opencontainers.image.title="PostgSail"
-LABEL org.opencontainers.image.url="https://github.com/xbgmsharp/PostgSail"
+LABEL org.opencontainers.image.url="https://github.com/xbgmsharp/postgsail-db"
 LABEL org.opencontainers.image.vendor="Francois Lacroix",
 LABEL org.opencontainers.image.version="latest"
 
